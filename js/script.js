@@ -62,10 +62,10 @@ const Achievements = [];
 
 /* 3. API CONFIGURATION */
 const API_CONFIG = {
-  API_BASE_URL: '',
-  USE_API: false,
+  API_BASE_URL: 'https://cna-api.sovicle.com',
+  USE_API: true,
   CONTENT_ENDPOINT: '/api/public/content',
-  TIMEOUT_MS: 10000
+  TIMEOUT_MS: 15000
 };
 
 const COLLECTION_KEYS = [

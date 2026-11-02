@@ -49,7 +49,7 @@ const HomePageContent = {
 };
 
 const DESIGN_IMAGES = {
-  dentalEducation: 'images/dental-education-hero.png'
+  dentalEducation: 'images/image.png'
 };
 
 const Courses = [];
